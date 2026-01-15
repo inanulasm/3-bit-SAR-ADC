@@ -1,6 +1,6 @@
 # 3-bit-SAR-ADC
 Analog 3-bit SAR-type ADC built using discrete components and Arduino-controlled binary search
-
+📄 [Project Report (PDF)](./EE313%20PROJECT%20FINAL%20REPORT.pdf)
 
 # 3-bit SAR-Type ADC with Arduino Control
 
